@@ -5,6 +5,6 @@
 ----
 
 CVE            | Description
-:---------------:|:----------------------------
-CVE-2014-8959  | phpMyAdmin的一个任意文件包含漏洞
-CVE-2015-7808  | vBulletin 5.1.x-5.2.x的反序列化远程代码执行
+:-------------:|:----------------------------
+[CVE-2014-8959](https://github.com/xkon/vulBox/blob/master/CVE-2014-8959/readme.md)  | phpMyAdmin的一个任意文件包含漏洞
+[CVE-2015-7808](https://github.com/xkon/vulBox/blob/master/CVE-2015-7808/readme.md)  | vBulletin 5.1.x-5.2.x的反序列化远程代码执行
